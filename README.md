@@ -35,7 +35,7 @@ Pastikan Anda telah menginstal prasyarat sistem di atas sebelum memulai.
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/FabianTrafada/album-management.git
+   git clone https://github.com/FabianTrafada/ast.git
    cd album-management
    ```
 
