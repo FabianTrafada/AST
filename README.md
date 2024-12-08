@@ -35,7 +35,7 @@ Pastikan Anda telah menginstal prasyarat sistem di atas sebelum memulai.
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/FabianTrafada/ast.git
+   git clone https://github.com/FabianTrafada/AST.git
    cd album-management
    ```
 
@@ -61,7 +61,7 @@ Pastikan Anda telah menginstal prasyarat sistem di atas sebelum memulai.
      DB_CONNECTION=mysql
      DB_HOST=127.0.0.1
      DB_PORT=3306
-     DB_DATABASE=album_management
+     DB_DATABASE=AST
      DB_USERNAME=root
      DB_PASSWORD=
      ```
